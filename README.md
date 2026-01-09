@@ -16,10 +16,10 @@
 
 ###
 
-<p align="left">🕛 May AI become self-aware<br>🌱 plant is my favourite animal<br>💞️ God built the universe by math rules<br>📫 send to me any-time<br>😄 Smile to your brothers<br>☁️ May God make the world a better place</p>
+<p align="left" margain = >🕛 May AI become self-aware<br>🌱 plant is my favourite animal<br>💞️ God built the universe by math rules<br>📫 send to me any-time<br>😄 Smile to your brothers<br>☁️ May God make the world a better place</p>
 
 ###
-
+<br><br>
 <h2 align="left">I code with</h2>
 
 ###
