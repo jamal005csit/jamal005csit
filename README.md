@@ -16,8 +16,8 @@
 
 ###
 
-<p align="left" margain = >May my variables be descriptive,
-my functions be pure,
+<p align="left" margain = >May my variables be descriptive, </br>
+my functions be pure,</br>
 and may my .env file never be found in the commit history.</p>
 
 ###
