@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left" margain = >🕛 May AI become self-aware<br>🌱 plant is my favourite animal<br>💞️ God built the universe by math rules<br>📫 send to me any-time<br>😄 Smile to your brothers<br>☁️ May God make the world a better place</p>
+<p align="left" margain = >May my variables be descriptive,
+my functions be pure,
+and may my .env file never be found in the commit history.</p>
 
 ###
 <br><br>
