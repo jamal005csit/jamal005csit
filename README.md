@@ -1,10 +1,6 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Hey%20%F0%9F%91%8B%20What's%20up?&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
-</div>
-
-###
-
-<h4 align="left">they call me Jamal (but U can call me jimmy)</h4>
+<p align="center">
+  <img src="header.jpg" width="100%" />
+</p>
 
 ###
 
@@ -12,14 +8,9 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGpuNG83MDByb3pmaWY3NmhodmM5OXhuMTRta3FwdTZub2ZhMW04dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
-
-###
-
-<p align="left" margain = >May my variables be descriptive, </br>
-my functions be pure,</br>
-and may my .env file never be found in the commit history.</p>
-
+<p align="left" margain = > <b>Pure. Powerful. Persistent.</b><br>
+<i>Every line of code is a choice. Every commit is a legacy.</i><br>
+  
 ###
 <br><br>
 <h2 align="left">I code with</h2>
@@ -87,4 +78,3 @@ and may my .env file never be found in the commit history.</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
