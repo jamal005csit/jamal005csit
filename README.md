@@ -2,9 +2,6 @@
   <img src="header.jpg" width="100%" />
 </p>
 
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
