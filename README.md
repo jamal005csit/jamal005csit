@@ -8,9 +8,6 @@
 
 ###
 
-<p align="left" margain = > <b>Pure. Powerful. Persistent.</b><br>
-<i>Every line of code is a choice. Every commit is a legacy.</i><br>
-  
 <br>
 <h2 align="left">I code with</h2>
 
