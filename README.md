@@ -59,8 +59,7 @@ $ jamal --stack
 <img src="assets/title-stats.svg" alt="activity.sh" width="100%">
 
 <p align="center">
-  <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=jamal005csit&show_icons=true&hide_border=true&bg_color=0e0e0e&title_color=e6e6e6&text_color=9a9a9a&icon_color=7a7a7a&ring_color=8a8a8a" />
-  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamal005csit&layout=compact&hide_border=true&bg_color=0e0e0e&title_color=e6e6e6&text_color=9a9a9a" />
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph" width="100%">
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%">
