@@ -21,7 +21,7 @@ Giza, Egypt. I build data pipelines and automate the boring parts.
 </td>
 <td valign="middle" align="center" width="40%">
 
-<img src="assets/Side_illustration.gif" alt="" width="335">
+<img src="assets/Side_illustration.gif" alt="" width="310">
 
 </td>
 </tr>
